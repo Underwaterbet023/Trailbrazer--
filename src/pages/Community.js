@@ -118,7 +118,7 @@ function Community() {
       interests: ['Hiking', 'Photography', 'Cultural Experiences'],
       bio: 'Adventure enthusiast looking for travel companions for weekend trips. Love exploring nature trails and capturing moments through my lens.',
       tripPreferences: 'Weekend getaways, National parks, Historical sites',
-      image: 'https://tse1.explicit.bing.net/th/id/OIP.wry-YRL_cdCO_VRoEZJgbAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEU-kNVf5EQYH8xX-_qHY96-Qu5V_pFa1rhmkpwjEaklChKDORCk8WNgxOZpW8h6DaMbI&usqp=CAU',
       compatibility: 85
     },
     {
