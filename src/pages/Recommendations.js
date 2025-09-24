@@ -191,7 +191,7 @@ function Recommendations() {
       distance: '3.5 km',
       rating: 4.5,
       reviews: 312,
-      image: 'https://tse2.mm.bing.net/th/id/OIP.IHbldF_mZiMFn9m3LN0fwwHaE7?rs=1&pid=ImgDetMain&o=7&rm=3',
+      image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/36/cc/cc/wwii-europe-section-of.jpg?w=900&h=500&s=1',
       description: 'Explore local history and culture at this well-preserved museum.'
     },
     {
