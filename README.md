@@ -2,6 +2,18 @@
 
 A comprehensive React-based travel application that combines trip planning, safety features, community engagement, and real-time location services. Built with modern web technologies and designed for travelers who want a safe, connected, and personalized travel experience.
 
+## 🌐 Live Preview
+
+> [ ✈️  Live Demo of my Website](https://underwaterbet023.github.io/Trailbrazer--/) 
+
+---
+
+---
+
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20112714.png?raw=true)
+
+
+
 ## 🌟 Features
 
 ### 🗺️ **Trip Planning & Booking**
@@ -11,27 +23,63 @@ A comprehensive React-based travel application that combines trip planning, safe
 - **Attraction Details**: Detailed information about tourist attractions with AR monument recognition
 - **Live Location Tracking**: Real-time location services with interactive maps
 
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20112751.png?raw=true)
+
+---
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20112814.png?raw=true)
+
+---
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20112843.png?raw=true)
+
+---
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20112927.png?raw=true)
+
+---
 ### 🛡️ **Safety & Emergency**
 - **Danger Zone Alerts**: Real-time alerts for nearby danger zones with detailed information
 - **Emergency Contacts**: Manage emergency contacts with one-click calling
 - **Safety Tips**: Comprehensive safety guidelines for travelers
 - **Location Sharing**: Share your live location with trusted contacts
 
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20113012.png?raw=true)
+
+---
 ### 👥 **Community & Social**
 - **Travel Community**: Connect with fellow travelers, share experiences, and get recommendations
 - **User Profiles**: Personalized profiles with travel history and preferences
 - **Social Features**: Follow other travelers and share travel stories
 
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20113032.png?raw=true)
+
+---
 ### 🧠 **AI-Powered Recommendations**
 - **Personalized Suggestions**: AI-driven recommendations based on user preferences
 - **Monument Recognition**: AI-powered monument identification using TensorFlow.js
 - **Smart Itineraries**: Intelligent trip planning based on user interests
 
-### 🛒 **E-commerce Integration**
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20113050.png?raw=true)
+
+---
+### 🛒 **Booking Integration**
 - **Shopping Cart**: Add trip packages and services to cart
 - **Secure Payment**: Integrated payment processing
 - **Booking Management**: Track and manage all bookings in one place
 
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20113119.png?raw=true)
+
+---
+---
+![image alt](https://github.com/Underwaterbet023/Trailbrazer--/blob/main/Screenshot%202025-09-24%20113138.png?raw=true)
+
+---
 ### 📱 **Modern UI/UX**
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
 - **Interactive Maps**: Leaflet-powered interactive maps with danger zone visualization
@@ -75,7 +123,7 @@ A comprehensive React-based travel application that combines trip planning, safe
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/travel-app.git
+https://github.com/Underwaterbet023/Trailbrazer--.git
 cd travel-app
 
 # Install dependencies
@@ -89,7 +137,7 @@ npm run build
 ```
 
 ### Environment Setup
-The application runs on `http://localhost:3000` by default. Ensure your browser supports:
+The application runs on `http://localhost:3000/Trailbrazer--` by default. Ensure your browser supports:
 - Geolocation API
 - WebGL for TensorFlow.js
 - Modern JavaScript features (ES6+)
