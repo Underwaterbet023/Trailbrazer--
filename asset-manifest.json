@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Trailbrazer--/static/css/main.b96b6a3b.css",
+    "main.js": "/Trailbrazer--/static/js/main.e9d76be3.js",
+    "static/media/route3.jpg": "/Trailbrazer--/static/media/route3.fa157f19327a83597197.jpg",
+    "static/media/route6.jpg": "/Trailbrazer--/static/media/route6.4a4402653f1221cb77b7.jpg",
+    "static/media/comfort-stay.jpg": "/Trailbrazer--/static/media/comfort-stay.025f3fb60d15c6af7ffa.jpg",
+    "static/media/route5.jpg": "/Trailbrazer--/static/media/route5.ae89ab886b3df636971a.jpg",
+    "static/media/grand-palace.jpg": "/Trailbrazer--/static/media/grand-palace.a606f8aa3fd1354e47f5.jpg",
+    "static/media/route2.jpg": "/Trailbrazer--/static/media/route2.8a1b955f70342bff015f.jpg",
+    "static/media/spice-villa.jpg": "/Trailbrazer--/static/media/spice-villa.6e2f29dc80375068f124.jpg",
+    "static/media/green-leaf.jpg": "/Trailbrazer--/static/media/green-leaf.499db221ec9e5da63e81.jpg",
+    "static/media/route4.jpg": "/Trailbrazer--/static/media/route4.5e304a06dc0436b4baf4.jpg",
+    "static/media/route1.jpg": "/Trailbrazer--/static/media/route1.611b23f78c07d8b2f5d4.jpg",
+    "static/media/logo.jpg": "/Trailbrazer--/static/media/logo.d82ab3340a71635f6a52.jpg",
+    "index.html": "/Trailbrazer--/index.html",
+    "main.b96b6a3b.css.map": "/Trailbrazer--/static/css/main.b96b6a3b.css.map",
+    "main.e9d76be3.js.map": "/Trailbrazer--/static/js/main.e9d76be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96b6a3b.css",
+    "static/js/main.e9d76be3.js"
+  ]
+}
