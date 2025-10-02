@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trailbrazer--/static/css/main.b96b6a3b.css",
-    "main.js": "/Trailbrazer--/static/js/main.b7fe0df0.js",
+    "main.js": "/Trailbrazer--/static/js/main.6f9c93a8.js",
     "static/media/route3.jpg": "/Trailbrazer--/static/media/route3.fa157f19327a83597197.jpg",
     "static/media/route6.jpg": "/Trailbrazer--/static/media/route6.4a4402653f1221cb77b7.jpg",
     "static/media/comfort-stay.jpg": "/Trailbrazer--/static/media/comfort-stay.025f3fb60d15c6af7ffa.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo.jpg": "/Trailbrazer--/static/media/logo.d82ab3340a71635f6a52.jpg",
     "index.html": "/Trailbrazer--/index.html",
     "main.b96b6a3b.css.map": "/Trailbrazer--/static/css/main.b96b6a3b.css.map",
-    "main.b7fe0df0.js.map": "/Trailbrazer--/static/js/main.b7fe0df0.js.map"
+    "main.6f9c93a8.js.map": "/Trailbrazer--/static/js/main.6f9c93a8.js.map"
   },
   "entrypoints": [
     "static/css/main.b96b6a3b.css",
-    "static/js/main.b7fe0df0.js"
+    "static/js/main.6f9c93a8.js"
   ]
 }
