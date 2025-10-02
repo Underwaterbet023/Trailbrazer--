@@ -4,7 +4,7 @@ A comprehensive React-based travel application that combines trip planning, safe
 
 ## 🌐 Live Preview
 
-> [ ✈️  Live Demo of my Website](https://underwaterbet023.github.io/Trailbrazer--/) 
+> [ ✈️  Live Demo of my Website](https://underwaterbet023.github.io/Trailbrazer--) 
 
 ---
 
@@ -137,7 +137,7 @@ npm run build
 ```
 
 ### Environment Setup
-The application runs on `http://localhost:3000/Trailbrazer--` by default. Ensure your browser supports:
+The application runs on `https://underwaterbet023.github.io/Trailbrazer--` by default. Ensure your browser supports:
 - Geolocation API
 - WebGL for TensorFlow.js
 - Modern JavaScript features (ES6+)
