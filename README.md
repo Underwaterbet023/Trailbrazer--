@@ -2,6 +2,12 @@
 
 A comprehensive React-based travel application that combines trip planning, safety features, community engagement, and real-time location services. Built with modern web technologies and designed for travelers who want a safe, connected, and personalized travel experience.
 
+
+## 👤 Admin page access
+- 🔒 **Email**: admintravell5525@gmail.com
+-  **Password**: admin55@55travell 
+
+---
 ## 🌐 Live Preview
 
 > [ ✈️  Live Demo of my Website](https://underwaterbet023.github.io/Trailbrazer--) 
